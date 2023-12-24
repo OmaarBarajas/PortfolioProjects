@@ -29,6 +29,6 @@ else:
     elif BMI<25.0:
         print('You are normal weight')
     elif BMI<30.0:
-        print('You are normal overweight')
+        print('You are overweight')
     else:
-        print('You are normal obese')
+        print('You are obese')
