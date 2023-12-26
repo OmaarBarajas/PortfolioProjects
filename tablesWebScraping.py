@@ -33,4 +33,4 @@ for row in column_data[1:]:
     length = len(df)
     df.loc[length] = cell_data
 
-df.to_csv(r'C:\Users\Omar\Desktop\Python scripts\scrapingtest.csv', index= False)
+df.to_csv(r'C:\Users\scrapingtest.csv', index= False)
